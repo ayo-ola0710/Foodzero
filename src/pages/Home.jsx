@@ -60,7 +60,7 @@ const Home = () => {
 
 const HomeLandingPage = () => {
   return (
-    <div className="bg-[#233000] text-white h-full relative  p-15">
+    <div className="bg-[#233000] text-white h-full relative  px-15 pt-45">
       <div className="flex m-auto w-[90%] mb-[300px] h-screen  ">
         <div className=" z-10">
           <h1 className="text-9xl m-5">
